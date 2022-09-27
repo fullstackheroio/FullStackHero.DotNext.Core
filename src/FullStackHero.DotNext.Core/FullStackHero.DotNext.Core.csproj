@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageIcon>fsh500x500.png</PackageIcon>
+    <AssemblyVersion>22.9.27</AssemblyVersion>
+    <FileVersion>22.9.27</FileVersion>
+    <Version>22.9.27</Version>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Company>FSH</Company>
+    <Authors>Ngô Quốc Toản</Authors>
+    <Description>Shared library for FSH's projects</Description>
+    <Copyright>Copyright 2022 FSH</Copyright>
+    <PackageProjectUrl>https://github.com/fullstackheroio/FullStackHero.DotNext.Core</PackageProjectUrl>
+    <RepositoryType></RepositoryType>
+    <RepositoryUrl>https://github.com/fullstackheroio/FullStackHero.DotNext.Core</RepositoryUrl>
+    <PackageTags>FSH FullStackHero CSharp DotNext</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Title>FullStackHero.DotNext.Core</Title>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Serilog" Version="2.12.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="fsh500x500.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

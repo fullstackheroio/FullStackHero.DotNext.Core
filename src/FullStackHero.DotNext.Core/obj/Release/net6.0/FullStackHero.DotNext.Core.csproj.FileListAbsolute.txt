@@ -1,0 +1,12 @@
+D:\Projects\CSharp\Library\FullStackHero.DotNext.Core\src\FullStackHero.DotNext.Core\bin\Release\net6.0\FullStackHero.DotNext.Core.deps.json
+D:\Projects\CSharp\Library\FullStackHero.DotNext.Core\src\FullStackHero.DotNext.Core\bin\Release\net6.0\FullStackHero.DotNext.Core.dll
+D:\Projects\CSharp\Library\FullStackHero.DotNext.Core\src\FullStackHero.DotNext.Core\bin\Release\net6.0\FullStackHero.DotNext.Core.pdb
+D:\Projects\CSharp\Library\FullStackHero.DotNext.Core\src\FullStackHero.DotNext.Core\obj\Release\net6.0\FullStackHero.DotNext.Core.csproj.AssemblyReference.cache
+D:\Projects\CSharp\Library\FullStackHero.DotNext.Core\src\FullStackHero.DotNext.Core\obj\Release\net6.0\FullStackHero.DotNext.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CSharp\Library\FullStackHero.DotNext.Core\src\FullStackHero.DotNext.Core\obj\Release\net6.0\FullStackHero.DotNext.Core.AssemblyInfoInputs.cache
+D:\Projects\CSharp\Library\FullStackHero.DotNext.Core\src\FullStackHero.DotNext.Core\obj\Release\net6.0\FullStackHero.DotNext.Core.AssemblyInfo.cs
+D:\Projects\CSharp\Library\FullStackHero.DotNext.Core\src\FullStackHero.DotNext.Core\obj\Release\net6.0\FullStackHero.DotNext.Core.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\Library\FullStackHero.DotNext.Core\src\FullStackHero.DotNext.Core\obj\Release\net6.0\FullStackHero.DotNext.Core.dll
+D:\Projects\CSharp\Library\FullStackHero.DotNext.Core\src\FullStackHero.DotNext.Core\obj\Release\net6.0\refint\FullStackHero.DotNext.Core.dll
+D:\Projects\CSharp\Library\FullStackHero.DotNext.Core\src\FullStackHero.DotNext.Core\obj\Release\net6.0\FullStackHero.DotNext.Core.pdb
+D:\Projects\CSharp\Library\FullStackHero.DotNext.Core\src\FullStackHero.DotNext.Core\obj\Release\net6.0\ref\FullStackHero.DotNext.Core.dll

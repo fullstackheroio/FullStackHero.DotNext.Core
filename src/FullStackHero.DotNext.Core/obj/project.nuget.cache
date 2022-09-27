@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ApeMg7+34e2Fc0yvky1b24U4stL4kpYpnTED1+0YQ7Iq3LwEW0fs/wIvenjJ06dpkL1AV8KQ9c4zCuydnvJ0+Q==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\CSharp\\Library\\FullStackHero.DotNext.Core\\src\\FullStackHero.DotNext.Core\\FullStackHero.DotNext.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fullstackhero\\.nuget\\packages\\serilog\\2.12.0\\serilog.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
